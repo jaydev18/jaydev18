@@ -18,6 +18,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 <br />
 
@@ -49,6 +50,7 @@
 [website]: https://jaydev-protfolio.netlify.app/
 [twitter]: https://twitter.com/Jayadev84391920
 [linkedin]: https://www.linkedin.com/in/jayadev-sahoo-a53442241/
+[Gmail]: mailto:jaydev0141@gmail.com
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
