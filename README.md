@@ -8,7 +8,7 @@
 - 🔭 I am working on a Javascript and react.
 - 🌱 I’m currently learning react and tailwind.😬
 - 👯 I’m looking to collaborate with others on Reactjs.
-- 🥅 2023 Goals: Learn and contribute to Open Source projects.
+- 🥅 2023 Goals: Learn UI/UX Design
 - 🤔 I’m looking forward to learn Backend Development.
 - ⚡ Fun fact: I love cricket and reading books.
 
@@ -51,18 +51,5 @@
 [twitter]: https://twitter.com/Jayadev84391920
 [linkedin]: https://www.linkedin.com/in/jayadev-sahoo-a53442241/
 [Gmail]: mailto:jaydev0141@gmail.com
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-jaydev18/README.md at main · jaydev18/jaydev18
+
+
