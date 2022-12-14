@@ -11,6 +11,7 @@
 - 🥅 2023 Goals: Learn UI/UX Design
 - 🤔 I’m looking forward to learn Backend Development.
 - ⚡ Fun fact: I love cricket and reading books.
+- 📫 How to reach me: [@jaydev-Twitter](https://twitter.com/Jayadev84391920) | [@jaydev-Email](mailto:jaydev0141@gmail.com)
 
 
 ### Connect with me:
