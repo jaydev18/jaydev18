@@ -5,11 +5,10 @@
 
 ### I'm a Frontend Developer!!
 
-- 🔭 I am working on a Javascript and react.
+- 🔭 I am working on a Javascript and react & Next.js.
 - 🌱 I’m currently learning react and tailwind.😬
 - 👯 I’m looking to collaborate with others on Reactjs.
-- 🥅 2023 Goals: Learn UI/UX Design
-- 🤔 I’m looking forward to learn Backend Development.
+- 🥅 2024 Goals: Learn UI/UX Desig
 - ⚡ Fun fact: I love cricket and reading books.
 - 📫 How to reach me: [@jaydev-Twitter](https://twitter.com/Jayadev84391920) | [@jaydev-Email](mailto:jaydev0141@gmail.com)
 
